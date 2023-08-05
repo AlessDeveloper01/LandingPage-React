@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Recoleta;
+    font-style: normal;
+    font-display: swap;
+    src: url(/fonts/recoleta/Recoleta-RegularDEMO.otf) format("truetype");
+}
+
+@font-face {
+    font-family: Suisse Intl;
+    font-style: normal;
+    font-display: swap;
+    src: url("/fonts/Suizze/SuisseIntl-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: PF Tempesta Seven;
+    src: url(/fonts/pf_condensed/pf_tempesta_seven_condensed.eot?) format("eot"), url(/fonts/pf_tempesta/pf_tempesta_seven_condensed.woff) format("woff"), url(/fonts/pf_tempesta/pf_tempesta_seven_condensed.ttf) format("truetype"), url(/fonts/pf_tempesta/pf_tempesta_seven_condensed.svg#PFTempestaSevenCondensed) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
